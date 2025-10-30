@@ -30,12 +30,9 @@ Anxiety
 
 Social comparison
 
-Each day will be recorded as one row in a CSV file.
+Each day will be recorded as one observation (row) including platform usage (in minutes) and self-reported well-being scores.
 
-Example data format:
 
-date	ig_min	tw_min	yt_min	tt_min	productivity	motivation	anxiety	soc_comp	happiness
-2025-11-01	75	40	60	25	7	8	3	4	8
 🗓️ Data Collection Plan
 
 Duration: 21–28 days (approximately 3–4 weeks)
